@@ -1,0 +1,73 @@
+/**
+ * 框架自定义样式
+ */
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.display-none {
+  display: none;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.menu-wrapper .el-submenu__title i, .menu-wrapper .el-menu-item i {
+  color: inherit;
+  margin-right: 5px;
+}
+
+.photoviewer-modal {
+  z-index: 3000 !important;
+
+  .photoviewer-inner {
+    border-radius: unset;
+    border: 1px solid #ffffff;
+
+    .photoviewer-stage {
+      border-top: 1px solid #ffffff;
+      border-bottom: 1px solid #ffffff;
+    }
+  }
+}
+
+.in-query-header {
+  color: #606266;
+  margin: auto 15px;
+}
+
+.in-query-body {
+  margin: 15px 30px 0px 30px;
+}
+
+.in-query-item {
+  margin-bottom: 10px;
+}
+
+.in-data-container {
+  margin-top: 30px;
+}
+
+.in-data-bottom {
+  margin: 15px;
+  overflow-x: auto;
+}
+
+.in-form-container {
+  margin: 40px 50px;
+}
+
+.in-label {
+  color: #606266;
+  font-weight: normal;
+}
