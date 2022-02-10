@@ -18,7 +18,7 @@
     "fuse.js": "^3.4.4",
     "js-cookie": "^2.2.0",
     "js-md5": "^0.7.3",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "photoviewer": "^3.2.0",
